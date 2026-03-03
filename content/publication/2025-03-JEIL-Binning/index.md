@@ -9,7 +9,7 @@ date: "2025-03-01"
 doi: "10.3808/jeil.202400149"
 featured: false
 image:
-  caption: 'Comparing the two approaches for Sobol' index estimation'
+  caption: "Comparing the two approaches for Sobol' index estimation"
   focal_point: ""
   preview_only: false
 projects: []
