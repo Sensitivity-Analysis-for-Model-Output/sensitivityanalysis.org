@@ -1,26 +1,20 @@
 ---
-bio: Short bio to add
-education:
-  courses:
-  - course: PhD in SA
-    institution: University of ?, Earth
-    year: 2000
-email: "thierry.mara@univ-reunion.fr"
+authors:
+- Thierry Mara
+bio: University of Reunion, France.
+
 interests:
-- Sensitivity analysis
-- Completing profiles
+- uncertainty and sensitivity analysis
+- inverse problem
+- model calibration
+
 organizations:
-- name: SAMO
-  url: "https://samo2022.math.fsu.edu/"
-role: MIA
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:thierry.mara@univ-reunion.fr
+- name: University of Reunion, France.
+  url: "https://www.unibocconi.it/en/"
 superuser: false
 title: Thierry Mara
 user_groups:
 - Scientific Committee
+
 ---
 
-Longer bio to add.
